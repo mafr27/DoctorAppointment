@@ -1,0 +1,14 @@
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\bin\Debug\netcoreapp2.1\DoctorAppointment1.deps.json
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\bin\Debug\netcoreapp2.1\DoctorAppointment1.runtimeconfig.json
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\bin\Debug\netcoreapp2.1\DoctorAppointment1.runtimeconfig.dev.json
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\bin\Debug\netcoreapp2.1\DoctorAppointment1.dll
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\obj\Debug\netcoreapp2.1\DoctorAppointment1.csprojAssemblyReference.cache
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\obj\Debug\netcoreapp2.1\DoctorAppointment1.csproj.CoreCompileInputs.cache
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\obj\Debug\netcoreapp2.1\DoctorAppointment1.RazorAssemblyInfo.cache
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\obj\Debug\netcoreapp2.1\DoctorAppointment1.RazorAssemblyInfo.cs
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\obj\Debug\netcoreapp2.1\DoctorAppointment1.AssemblyInfoInputs.cache
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\obj\Debug\netcoreapp2.1\DoctorAppointment1.AssemblyInfo.cs
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\obj\Debug\netcoreapp2.1\DoctorAppointment1.RazorTargetAssemblyInfo.cache
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\bin\Debug\netcoreapp2.1\DoctorAppointment1.pdb
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\obj\Debug\netcoreapp2.1\DoctorAppointment1.dll
+C:\Users\2000081310\source\repos\DoctorAppointment1\DoctorAppointment1\obj\Debug\netcoreapp2.1\DoctorAppointment1.pdb
